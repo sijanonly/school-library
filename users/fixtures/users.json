@@ -1,0 +1,106 @@
+[
+{
+  "model": "users.user",
+  "fields": {
+    "password": "",
+    "last_login": null,
+    "email": "testuser11@email.com",
+    "first_name": null,
+    "last_name": null,
+    "city": "Kathmandu",
+    "zip_code": "3360",
+    "address": "123 Big street",
+    "numbers": {
+      "emergency": "",
+      "primary": ""
+    },
+    "user_type": "PARENT",
+    "verified": false,
+    "date_created": "2017-07-09T13:11:39.194Z",
+    "date_modified": "2017-07-09T13:11:39.195Z",
+    "is_admin": false,
+    "is_superuser": false,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "",
+    "last_login": null,
+    "email": "testuser22@email.com",
+    "first_name": null,
+    "last_name": null,
+    "city": "Delhi",
+    "zip_code": "3360",
+    "address": "222 Omega Street",
+    "numbers": {
+      "emergency": "",
+      "primary": ""
+    },
+    "user_type": "PARENT",
+    "verified": false,
+    "date_created": "2017-07-09T13:11:39.194Z",
+    "date_modified": "2017-07-09T13:11:39.195Z",
+    "is_admin": false,
+    "is_superuser": false,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "",
+    "last_login": null,
+    "email": "testuser33@email.com",
+    "first_name": null,
+    "last_name": null,
+    "city": "New York",
+    "zip_code": "3360",
+    "address": "333 Science street",
+    "numbers": {
+      "emergency": "",
+      "primary": ""
+    },
+    "user_type": "SITTER",
+    "verified": false,
+    "date_created": "2017-07-09T13:11:39.194Z",
+    "date_modified": "2017-07-09T13:11:39.195Z",
+    "is_admin": false,
+    "is_superuser": false,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "",
+    "last_login": null,
+    "email": "testuser55@email.com",
+    "first_name": null,
+    "last_name": null,
+    "city": "Boston",
+    "zip_code": "3360",
+    "address": "777 Night street",
+    "numbers": {
+      "emergency": "",
+      "primary": ""
+    },
+    "user_type": "SITTER",
+    "verified": false,
+    "date_created": "2017-07-09T13:11:39.194Z",
+    "date_modified": "2017-07-09T13:11:39.195Z",
+    "is_admin": false,
+    "is_superuser": false,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
